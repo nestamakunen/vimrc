@@ -256,7 +256,7 @@ endif
 
 " }}}
 
-" VIMSCRIPT FILE SETTINGS ------------------------------------------------ {{{
+" STATUS LINE SETTINGS ------------------------------------------------ {{{
 
     " Clear status line when vimrc is reloaded.
     set statusline=
